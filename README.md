@@ -2,7 +2,7 @@ This is the repo for the final project for Getting and Cleaning Data Course.
 
 ## Overview
 * **run_analysis.R** The r script processes the data and generated the tidy dataset.
-* **tidy data.txt** The text file contains the tidy data.
+* **tidy_data.txt** The text file contains the tidy data.
 * **UCI HAR Dataset Raw** data from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip.
 * **CodeBook.md** A code book that describes the variables.
 * **README.md** The README file, describing how the script works.
@@ -16,4 +16,4 @@ This is the repo for the final project for Getting and Cleaning Data Course.
 
 
 ## Style:
-[https://google-styleguide.googlecode.com/svn/trunk/Rguide.xml#identifiers]
+[Google Code Style](https://google-styleguide.googlecode.com/svn/trunk/Rguide.xml#identifiers)
